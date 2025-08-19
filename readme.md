@@ -1,6 +1,6 @@
 # PDF Merger Tool
 
-A simple, privacy-focused desktop application to merge PDF files securely without uploading to online services.
+A privacy-focused PDF merger desktop application built with Tkinter, tkinterdnd2, and PyPDF2. Allows users to seamlessly drag-and-drop or select PDF files, then merge them into a single PDF saved at a location of their choosing, all without uploading sensitive data online.
 
 ## Features
 - Drag-and-drop PDF files into the app.
